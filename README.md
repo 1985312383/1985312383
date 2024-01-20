@@ -22,13 +22,13 @@
 
 <div align="center">
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1985312383&theme=solarized" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1985312383&theme=github" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1985312383&theme=solarized" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1985312383&theme=github" />
   </a>
   <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1985312383&theme=solarized" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1985312383&theme=github" />
   </a>
 </div>
 <!---
