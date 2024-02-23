@@ -20,17 +20,6 @@
 <img height=150 weight=100 src="https://github-readme-stats.vercel.app/api/wakatime?username=@1985312383" />
 </div>
 
-<div align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1985312383&theme=github" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=1985312383&theme=github" />
-  </a>
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=1985312383&theme=github" />
-  </a>
-</div>
 <!---
 1985312383/1985312383 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
