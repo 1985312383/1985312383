@@ -35,16 +35,10 @@
 
 <div align="center">
 
-### 🔧 Programming Languages & Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-
-### 🧠 Recommendation Systems & ML
-![Recommendation Systems](https://img.shields.io/badge/RecSys-FF6B6B?style=for-the-badge&logo=target&logoColor=white)
-![Collaborative Filtering](https://img.shields.io/badge/Collaborative_Filtering-4ECDC4?style=for-the-badge&logo=filter&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-45B7D1?style=for-the-badge&logo=brain&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -57,10 +51,6 @@
 ### 📊 Data Processing & Analysis
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### 🗄️ Databases & Tools
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -71,30 +61,10 @@
 
 <div align="center">
 
-### [🎯 Torch-RecHub](https://github.com/datawhalechina/torch-rechub)
-**A Lightweight PyTorch Framework for Recommendation Systems**
-- 🔧 **Role:** Core Contributor
-- 📈 **Impact:** 535+ GitHub Stars, 84+ Forks
-- 🛠️ **Tech Stack:** PyTorch, Deep Learning, Recommendation Algorithms
-- 📋 **Features:** Modular design, Rich model library (DSSM, DeepFM, DIN, etc.), Multi-task learning support
+[![Torch-RecHub](https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=torch-rechub&theme=tokyonight)](https://github.com/datawhalechina/torch-rechub)
+[![Search-Rec-Ads Cosmos](https://github-readme-stats.vercel.app/api/pin/?username=1985312383&repo=search-rec-ads-cosmos-explorer&theme=tokyonight)](https://github.com/1985312383/search-rec-ads-cosmos-explorer)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=torch-rechub&theme=tokyonight)](https://github.com/datawhalechina/torch-rechub)
-
-### [🌌 Search-Rec-Ads Cosmos Explorer](https://github.com/1985312383/search-rec-ads-cosmos-explorer)
-**Comprehensive Study of Search, Recommendation & Advertising Systems**
-- 🔧 **Role:** Project Creator
-- 🎯 **Focus:** End-to-end system design and optimization
-- 📚 **Content:** Industry best practices and algorithm implementations
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=1985312383&repo=search-rec-ads-cosmos-explorer&theme=tokyonight)](https://github.com/1985312383/search-rec-ads-cosmos-explorer)
-
-### [🎵 SuperSonic](https://github.com/tencentmusic/supersonic)
-**Tencent Music's Next-Generation Data Intelligence Platform**
-- 🔧 **Role:** Contributor
-- 🏢 **Organization:** Tencent Music Entertainment
-- 🎯 **Focus:** Large-scale data processing and intelligent analytics
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=tencentmusic&repo=supersonic&theme=tokyonight)](https://github.com/tencentmusic/supersonic)
+**🎯 Torch-RecHub** - PyTorch Recommendation Framework (535+ ⭐) | **🌌 Search-Rec-Ads Cosmos** - End-to-end System Design | **🎵 SuperSonic** - Tencent Music Data Platform
 
 </div>
 
