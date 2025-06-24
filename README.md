@@ -63,6 +63,7 @@
 
 [![Torch-RecHub](https://github-readme-stats.vercel.app/api/pin/?username=datawhalechina&repo=torch-rechub&theme=tokyonight)](https://github.com/datawhalechina/torch-rechub)
 [![Search-Rec-Ads Cosmos](https://github-readme-stats.vercel.app/api/pin/?username=1985312383&repo=search-rec-ads-cosmos-explorer&theme=tokyonight)](https://github.com/1985312383/search-rec-ads-cosmos-explorer)
+[![SuperSonic](https://github-readme-stats.vercel.app/api/pin/?username=tencentmusic&repo=supersonic&theme=tokyonight)](https://github.com/tencentmusic/supersonic)
 
 **🎯 Torch-RecHub** - PyTorch Recommendation Framework (535+ ⭐) | **🌌 Search-Rec-Ads Cosmos** - End-to-end System Design | **🎵 SuperSonic** - Tencent Music Data Platform
 
