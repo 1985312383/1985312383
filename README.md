@@ -72,21 +72,19 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1985312383&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1985312383&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=1985312383&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1985312383&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=1985312383&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=1985312383&theme=tokyonight&card_height=170" alt="GitHub Streak" />
 </div>
-
 
 ## 🏆 GitHub Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=1985312383&theme=onedark&row=1&column=7" alt="GitHub Trophies" />
 </div>
-
 
 ## 🔥 Recent Activity
 
