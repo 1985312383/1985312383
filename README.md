@@ -66,7 +66,9 @@
 [![MedImager](https://github-readme-stats.vercel.app/api/pin/?username=1985312383&repo=MedImager&theme=tokyonight)](https://github.com/1985312383/MedImager)
 [![SuperSonic](https://github-readme-stats.vercel.app/api/pin/?username=tencentmusic&repo=supersonic&theme=tokyonight)](https://github.com/tencentmusic/supersonic)
 
-**🎯 Torch-RecHub** - PyTorch Recommendation Framework (535+ ⭐) | **🌌 Search-Rec-Ads Cosmos** - End-to-end System Design | **🎵 SuperSonic** - Tencent Music Data Platform | **🔬 MedImager** - DICOM Viewer Software
+**🎯 Torch-RecHub** - PyTorch Recommendation Framework (535+ ⭐) | **🌌 Search-Rec-Ads Cosmos** - End-to-end System Design
+
+**🎵 SuperSonic** - Tencent Music Data Platform | **🔬 MedImager** - DICOM Viewer Software
 
 </div>
 
