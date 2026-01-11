@@ -39,10 +39,10 @@ philosophy: "用算法连接用户与内容，用开源推动知识共享"
 
 <div align="center">
 
-[![Torch-RecHub](https://svg.bookmark.style/api?url=https://github.com/datawhalechina/torch-rechub)](https://github.com/datawhalechina/torch-rechub)
-[![Med-Imaging-Primer](https://svg.bookmark.style/api?url=https://github.com/datawhalechina/med-imaging-primer)](https://github.com/datawhalechina/med-imaging-primer)
-[![Easy-VectorDB](https://svg.bookmark.style/api?url=https://github.com/datawhalechina/easy-vectordb)](https://github.com/datawhalechina/easy-vectordb)
-[![Members-Visualization](https://svg.bookmark.style/api?url=https://github.com/datawhalechina/members-visualization)](https://github.com/datawhalechina/members-visualization)
+[![Torch-RecHub](https://svg.bookmark.style/api?url=https://github.com/datawhalechina/torch-rechub&style=horizontal)](https://github.com/datawhalechina/torch-rechub)
+[![Med-Imaging-Primer](https://svg.bookmark.style/api?url=https://github.com/datawhalechina/med-imaging-primer&style=horizontal)](https://github.com/datawhalechina/med-imaging-primer)
+[![Easy-VectorDB](https://svg.bookmark.style/api?url=https://github.com/datawhalechina/easy-vectordb&style=horizontal)](https://github.com/datawhalechina/easy-vectordb)
+[![Members-Visualization](https://svg.bookmark.style/api?url=https://github.com/datawhalechina/members-visualization&style=horizontal)](https://github.com/datawhalechina/members-visualization)
 
 </div>
 
@@ -57,9 +57,9 @@ philosophy: "用算法连接用户与内容，用开源推动知识共享"
 
 <div align="center">
 
-[![Search-Rec-Ads Cosmos](https://svg.bookmark.style/api?url=https://github.com/1985312383/search-rec-ads-cosmos-explorer)](https://github.com/1985312383/search-rec-ads-cosmos-explorer)
-[![MedImager](https://svg.bookmark.style/api?url=https://github.com/1985312383/MedImager)](https://github.com/1985312383/MedImager)
-[![SuperSonic](https://svg.bookmark.style/api?url=https://github.com/tencentmusic/supersonic)](https://github.com/tencentmusic/supersonic)
+[![Search-Rec-Ads Cosmos](https://svg.bookmark.style/api?url=https://github.com/1985312383/search-rec-ads-cosmos-explorer&style=horizontal)](https://github.com/1985312383/search-rec-ads-cosmos-explorer)
+[![MedImager](https://svg.bookmark.style/api?url=https://github.com/1985312383/MedImager&style=horizontal)](https://github.com/1985312383/MedImager)
+[![SuperSonic](https://svg.bookmark.style/api?url=https://github.com/tencentmusic/supersonic&style=horizontal)](https://github.com/tencentmusic/supersonic)
 
 </div>
 
