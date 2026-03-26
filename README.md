@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&repeat=true&width=1000&lines=%E6%9F%AF%E6%85%95%E7%81%B5+%2F%2F+Algorithm+Engineer;Recommendation+Systems+%C3%97+Open+Source+%C3%97+Engineering;Build+useful+things.+Make+them+beautiful.+Make+them+reusable." />
 
@@ -29,10 +29,6 @@
     </td>
   </tr>
 </table>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=1985312383&theme=algolia&no-frame=true&no-bg=true&row=1&column=6" />
-</div>
 
 <table>
   <tr>
@@ -83,16 +79,11 @@
 | [supersonic](https://github.com/tencentmusic/supersonic) | 企业级 Text2SQL / ChatBI 项目协作 | Contributor |
 
 <div align="center">
-  
+
 [![Torch-RecHub](https://svg.bookmark.style/api?url=https://github.com/datawhalechina/torch-rechub&style=horizontal)](https://github.com/datawhalechina/torch-rechub)
 [![Med-Imaging-Primer](https://svg.bookmark.style/api?url=https://github.com/datawhalechina/med-imaging-primer&style=horizontal)](https://github.com/datawhalechina/med-imaging-primer)
 [![Members-Visualization](https://svg.bookmark.style/api?url=https://github.com/datawhalechina/members-visualization&style=horizontal)](https://github.com/datawhalechina/members-visualization)
 [![Easy-VectorDB](https://svg.bookmark.style/api?url=https://github.com/datawhalechina/easy-vectordb&style=horizontal)](https://github.com/datawhalechina/easy-vectordb)
-
-</div>
-
-<div align="center">
-
 [![Search-Rec-Ads Cosmos](https://svg.bookmark.style/api?url=https://github.com/1985312383/search-rec-ads-cosmos-explorer&style=horizontal)](https://github.com/1985312383/search-rec-ads-cosmos-explorer)
 [![MedImager](https://svg.bookmark.style/api?url=https://github.com/1985312383/MedImager&style=horizontal)](https://github.com/1985312383/MedImager)
 [![SuperSonic](https://svg.bookmark.style/api?url=https://github.com/tencentmusic/supersonic&style=horizontal)](https://github.com/tencentmusic/supersonic)
@@ -107,6 +98,10 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=1985312383&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/1985312383/1985312383/main/profile-3d-contrib/profile-night-rainbow.svg" />
 </div>
 
 <div align="center">
