@@ -19,6 +19,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
 
       - name: Ensure metrics output directory exists
         run: mkdir -p assets
@@ -46,14 +48,42 @@ jobs:
           plugin_stars: yes
           plugin_stars_limit: 4
 
-      - name: Commit generated metrics
+      - name: Publish metrics to output branch
+        shell: bash
         run: |
           if [ ! -f assets/metrics-terminal.svg ]; then
-            echo "assets/metrics-terminal.svg was not generated, skipping commit"
+            echo "assets/metrics-terminal.svg was not generated, skipping publish"
             exit 0
           fi
+
           git config user.name github-actions
           git config user.email github-actions@github.com
+          git fetch origin output || true
+
+          if git ls-remote --exit-code --heads origin output >/dev/null 2>&1; then
+            git worktree add .output origin/output
+          else
+            git worktree add --detach .output
+            cd .output
+            git switch --orphan output
+            git rm -rf . >/dev/null 2>&1 || true
+            cd ..
+          fi
+
+          mkdir -p .output/assets
+          cp assets/metrics-terminal.svg .output/assets/metrics-terminal.svg
+
+          cd .output
           git add assets/metrics-terminal.svg
-          git diff --cached --quiet || git commit -m "chore: update metrics panel"
-          git push
+          git diff --cached --quiet && exit 0
+          git commit -m "chore: update metrics panel"
+
+          for attempt in 1 2 3; do
+            git pull --rebase origin output || git rebase --abort || true
+            if git push origin HEAD:output; then
+              exit 0
+            fi
+            sleep 5
+          done
+
+          exit 1

@@ -62,21 +62,15 @@
 
 ## Featured Projects
 
-<p>
-  这些项目基本能代表我当前最主要的兴趣和产出方向。
-  其中 <b>torch-rechub</b>、<b>med-imaging-primer</b>、<b>members-visualization</b> 由我负责推进；
-  其他非本人主导的项目，则以贡献者身份参与。
-</p>
-
 | Project | Description | Role |
 | :-- | :-- | :-- |
 | [torch-rechub](https://github.com/datawhalechina/torch-rechub) | PyTorch 推荐系统算法框架与实践 | Lead |
-| [med-imaging-primer](https://github.com/datawhalechina/med-imaging-primer) | 项目内容组织与推进 | Lead |
+| [med-imaging-primer](https://github.com/datawhalechina/med-imaging-primer) | 医学影像技术教程进 | Lead |
 | [members-visualization](https://github.com/datawhalechina/members-visualization) | 成员与贡献数据的可视化表达 | Lead |
-| [easy-vectordb](https://github.com/datawhalechina/easy-vectordb) | VectorDB / RAG 方向内容共建 | Contributor |
+| [easy-vectordb](https://github.com/datawhalechina/easy-vectordb) | VectorDB 教程 | Contributor |
 | [search-rec-ads-cosmos-explorer](https://github.com/1985312383/search-rec-ads-cosmos-explorer) | 搜广推知识体系与方法探索 | Personal |
-| [MedImager](https://github.com/1985312383/MedImager) | 历史项目与实践积累 | Personal |
-| [supersonic](https://github.com/tencentmusic/supersonic) | 企业级 Text2SQL / ChatBI 项目协作 | Contributor |
+| [MedImager](https://github.com/1985312383/MedImager) | 医学影像图像查看软件| Personal |
+| [supersonic](https://github.com/tencentmusic/supersonic) | 企业级 Text2SQL / ChatBI 项目 | Contributor |
 
 <div align="center">
 
@@ -101,9 +95,10 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/1985312383/1985312383/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="https://raw.githubusercontent.com/1985312383/1985312383/output/profile-3d-contrib/profile-night-rainbow.svg" />
 </div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/1985312383/1985312383/output/github-contribution-grid-snake-dark.svg" />
 </div>
+
