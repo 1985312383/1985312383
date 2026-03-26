@@ -20,6 +20,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v5
 
+      - name: Ensure metrics output directory exists
+        run: mkdir -p assets
+
       - name: Generate metrics panel
         uses: lowlighter/metrics@latest
         with:
@@ -45,6 +48,10 @@ jobs:
 
       - name: Commit generated metrics
         run: |
+          if [ ! -f assets/metrics-terminal.svg ]; then
+            echo "assets/metrics-terminal.svg was not generated, skipping commit"
+            exit 0
+          fi
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add assets/metrics-terminal.svg
