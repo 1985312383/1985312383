@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&repeat=true&width=1000&lines=%E6%9F%AF%E6%85%95%E7%81%B5+%2F%2F+Algorithm+Engineer;Recommendation+Systems+%C3%97+Open+Source+%C3%97+Engineering;Build+useful+things.+Make+them+beautiful.+Make+them+reusable." />
 
@@ -17,22 +17,12 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
-<p>
-  <img src="https://raw.githubusercontent.com/1985312383/1985312383/output/assets/metrics-terminal.svg" />
-</p>
-
 </div>
 
-<table>
-  <tr>
-    <td width="54%" valign="top">
-      <img height="170" src="https://github-readme-stats.vercel.app/api?username=1985312383&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-    </td>
-    <td width="46%" valign="top">
-      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1985312383&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=1985312383&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1985312383&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
 
 <table>
   <tr>
