@@ -105,9 +105,6 @@
 [![Med-Imaging-Primer](https://svg.bookmark.style/api?url=https://github.com/datawhalechina/med-imaging-primer&style=horizontal)](https://github.com/datawhalechina/med-imaging-primer)
 [![Members-Visualization](https://svg.bookmark.style/api?url=https://github.com/datawhalechina/members-visualization&style=horizontal)](https://github.com/datawhalechina/members-visualization)
 [![Easy-VectorDB](https://svg.bookmark.style/api?url=https://github.com/datawhalechina/easy-vectordb&style=horizontal)](https://github.com/datawhalechina/easy-vectordb)
-[![Search-Rec-Ads Cosmos](https://svg.bookmark.style/api?url=https://github.com/1985312383/search-rec-ads-cosmos-explorer&style=horizontal)](https://github.com/1985312383/search-rec-ads-cosmos-explorer)
-[![MedImager](https://svg.bookmark.style/api?url=https://github.com/1985312383/MedImager&style=horizontal)](https://github.com/1985312383/MedImager)
-[![SuperSonic](https://svg.bookmark.style/api?url=https://github.com/tencentmusic/supersonic&style=horizontal)](https://github.com/tencentmusic/supersonic)
 
 </div>
 
