@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&repeat=true&width=1000&lines=%E6%9F%AF%E6%85%95%E7%81%B5+%2F%2F+Algorithm+Engineer;Recommendation+Systems+%C3%97+Open+Source+%C3%97+Engineering;Build+useful+things.+Make+them+beautiful.+Make+them+reusable." />
 
@@ -17,15 +17,19 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
+<p>
+  <img src="https://raw.githubusercontent.com/1985312383/1985312383/output/assets/metrics-terminal.svg" />
+</p>
+
 </div>
 
 <table>
   <tr>
     <td width="54%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=1985312383&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+      <img height="170" src="https://github-readme-stats.vercel.app/api?username=1985312383&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
     </td>
     <td width="46%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1985312383&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1985312383&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
     </td>
   </tr>
 </table>
@@ -62,15 +66,48 @@
 
 ## Featured Projects
 
-| Project | Description | Role |
-| :-- | :-- | :-- |
-| [torch-rechub](https://github.com/datawhalechina/torch-rechub) | PyTorch 推荐系统算法框架与实践 | Lead |
-| [med-imaging-primer](https://github.com/datawhalechina/med-imaging-primer) | 医学影像技术教程进 | Lead |
-| [members-visualization](https://github.com/datawhalechina/members-visualization) | 成员与贡献数据的可视化表达 | Lead |
-| [easy-vectordb](https://github.com/datawhalechina/easy-vectordb) | VectorDB 教程 | Contributor |
-| [search-rec-ads-cosmos-explorer](https://github.com/1985312383/search-rec-ads-cosmos-explorer) | 搜广推知识体系与方法探索 | Personal |
-| [MedImager](https://github.com/1985312383/MedImager) | 医学影像图像查看软件| Personal |
-| [supersonic](https://github.com/tencentmusic/supersonic) | 企业级 Text2SQL / ChatBI 项目 | Contributor |
+<table align="center">
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Role</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/datawhalechina/torch-rechub">torch-rechub</a></td>
+    <td>PyTorch 推荐系统算法框架与实践</td>
+    <td>Lead</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/datawhalechina/med-imaging-primer">med-imaging-primer</a></td>
+    <td>项目内容组织与推进</td>
+    <td>Lead</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/datawhalechina/members-visualization">members-visualization</a></td>
+    <td>成员与贡献数据的可视化表达</td>
+    <td>Lead</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/datawhalechina/easy-vectordb">easy-vectordb</a></td>
+    <td>VectorDB / RAG 方向内容共建</td>
+    <td>Contributor</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/1985312383/search-rec-ads-cosmos-explorer">search-rec-ads-cosmos-explorer</a></td>
+    <td>搜广推知识体系与方法探索</td>
+    <td>Personal</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/1985312383/MedImager">MedImager</a></td>
+    <td>历史项目与实践积累</td>
+    <td>Personal</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/tencentmusic/supersonic">supersonic</a></td>
+    <td>企业级 Text2SQL / ChatBI 项目协作</td>
+    <td>Contributor</td>
+  </tr>
+</table>
 
 <div align="center">
 
@@ -101,4 +138,3 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/1985312383/1985312383/output/github-contribution-grid-snake-dark.svg" />
 </div>
-
