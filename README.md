@@ -1,6 +1,6 @@
 ﻿<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&repeat=true&width=1000&lines=%E6%9F%AF%E6%85%95%E7%81%B5+%2F%2F+Algorithm+Engineer;Recommendation+Systems+%C3%97+Open+Source+%C3%97+Engineering;Build+useful+things.+Make+them+beautiful.+Make+them+reusable." />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=30&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&repeat=true&width=1000&lines=%E6%9F%AF%E6%85%95%E7%81%B5+%2F%2F+Algorithm+Engineer;Recommendation+Systems+%C3%97+Open+Source+%C3%97+Engineering;Build+useful+things.+Make+them+beautiful+and+reusable." />
 
 <p>
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:111827,100:164e63&height=3&section=header&reversal=false" width="100%" />
@@ -14,14 +14,26 @@
 </p>
 
 <p>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" />
+  </picture>
 </p>
 
 </div>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=1985312383&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1985312383&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=1985312383&show_icons=true&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=1985312383&show_icons=true&theme=default&hide_border=true" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=1985312383&show_icons=true&theme=default&hide_border=true" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=1985312383&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=1985312383&layout=compact&theme=default&hide_border=true&langs_count=8" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1985312383&layout=compact&theme=default&hide_border=true&langs_count=8" />
+  </picture>
 </div>
 
 <table>
@@ -111,17 +123,33 @@
 ## Activity Dashboard
 
 <div align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=1985312383&theme=tokyonight&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=1985312383&theme=tokyonight&hide_border=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=1985312383&theme=default&hide_border=true" />
+    <img height="170" src="https://streak-stats.demolab.com?user=1985312383&theme=default&hide_border=true" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=1985312383&theme=tokyo-night&hide_border=true&area=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=1985312383&theme=tokyo-night&hide_border=true&area=true" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=1985312383&theme=github-light&hide_border=true&area=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=1985312383&theme=github-light&hide_border=true&area=true" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/1985312383/1985312383/output/profile-3d-contrib/profile-night-rainbow.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1985312383/1985312383/output/profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1985312383/1985312383/output/profile-3d-contrib/profile-green.svg" />
+    <img src="https://raw.githubusercontent.com/1985312383/1985312383/output/profile-3d-contrib/profile-green.svg" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/1985312383/1985312383/output/github-contribution-grid-snake-dark.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/1985312383/1985312383/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/1985312383/1985312383/output/github-contribution-grid-snake.svg" />
+    <img src="https://raw.githubusercontent.com/1985312383/1985312383/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
