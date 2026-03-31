@@ -41,8 +41,7 @@
     <td width="58%" valign="top">
       <h3>现在在做什么</h3>
       <p>
-        我现在主要围绕推荐系统、开源项目工程化和数据表达这几条线持续投入。
-        比起只做单点算法实验，我更喜欢把代码、文档、教程和项目结构一起打磨，让内容既能跑起来，也能被别人快速接住。
+        推荐系统、开源项目工程化
       </p>
       <p>
         关注方向包括：召回与排序、多任务建模、PyTorch 推荐框架、数据可视化，以及把复杂主题整理成更清晰、更可复用的开源资料。
@@ -81,32 +80,32 @@
   </tr>
   <tr>
     <td><a href="https://github.com/datawhalechina/med-imaging-primer">med-imaging-primer</a></td>
-    <td>项目内容组织与推进</td>
+    <td>医学成像技术教程</td>
     <td>Lead</td>
   </tr>
   <tr>
     <td><a href="https://github.com/datawhalechina/members-visualization">members-visualization</a></td>
-    <td>成员与贡献数据的可视化表达</td>
+    <td>社区成员与贡献数据的可视化表达</td>
     <td>Lead</td>
   </tr>
   <tr>
     <td><a href="https://github.com/datawhalechina/easy-vectordb">easy-vectordb</a></td>
-    <td>VectorDB / RAG 方向内容共建</td>
+    <td>向量数据库教程</td>
     <td>Contributor</td>
   </tr>
   <tr>
     <td><a href="https://github.com/1985312383/search-rec-ads-cosmos-explorer">search-rec-ads-cosmos-explorer</a></td>
-    <td>搜广推知识体系与方法探索</td>
+    <td>搜广推知识教程</td>
     <td>Personal</td>
   </tr>
   <tr>
     <td><a href="https://github.com/1985312383/MedImager">MedImager</a></td>
-    <td>历史项目与实践积累</td>
+    <td>医学影像查看软件</td>
     <td>Personal</td>
   </tr>
   <tr>
     <td><a href="https://github.com/tencentmusic/supersonic">supersonic</a></td>
-    <td>企业级 Text2SQL / ChatBI 项目协作</td>
+    <td>企业级 Text2SQL / ChatBI 项目</td>
     <td>Contributor</td>
   </tr>
 </table>
